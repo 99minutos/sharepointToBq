@@ -1,0 +1,6 @@
+{"sharepoint_base_url": "https://99minutos.sharepoint.com/sites/Rentabilidad99minutos/",
+ "folder_in_sharepoint": "/sites/Rentabilidad99minutos/Documentos compartidos/Multas pulpo/",
+ "schemaBigquery": "pulpo",
+ "TableBigQuery": "multasPulpo",
+ "columns": [0,1,2,3,4,5,6]
+}

@@ -1,0 +1,9 @@
+office365
+google-cloud
+pandas
+google-cloud-bigquery
+db-dtypes
+google-api-python-client
+unidecode
+openpyxl
+google-cloud-secret-manager
